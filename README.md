@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. I encountered some problems when I start to add the navigation controller. When I launch the app, it appears to be either a white screen or black screen. I checked the console through debug tools and find error thread:1.3. I searched it through Google and solved the problem.
 
 ## License
 
-    Copyright [2015] [mrsata]
+    Copyright [2015] [Han Liu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
