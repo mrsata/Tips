@@ -1,6 +1,6 @@
 # Pre-work - *codepath-ios-prework*
 
-**codepath-ios-prework** is a tip calculator application for iOS.
+This is a tip calculator application for iOS.
 
 Submitted by: **Han Liu**
 
