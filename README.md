@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It's really hard to keep updating... really hard it is...
+It's really hard to keep updating... really hard it is... really...
 
 ## License
 
