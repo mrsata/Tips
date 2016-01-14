@@ -32,8 +32,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It's really hard to keep updating...
-
 ## License
 
     Copyright [2015] [Han Liu]
