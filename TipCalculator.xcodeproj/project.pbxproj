@@ -79,9 +79,9 @@
 		9B3655351C150757005FC762 = {
 			isa = PBXGroup;
 			children = (
-				9B3655401C150759005FC762 /* codepath-ios-prework */,
-				9B3655551C15075A005FC762 /* codepath-ios-preworkTests */,
-				9B3655601C15075A005FC762 /* codepath-ios-preworkUITests */,
+				9B3655401C150759005FC762 /* TipCalculator */,
+				9B3655551C15075A005FC762 /* TipCalculatorTests */,
+				9B3655601C15075A005FC762 /* TipCalculatorUITests */,
 				9B36553F1C150759005FC762 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -96,7 +96,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9B3655401C150759005FC762 /* codepath-ios-prework */ = {
+		9B3655401C150759005FC762 /* TipCalculator */ = {
 			isa = PBXGroup;
 			children = (
 				9B3655411C150759005FC762 /* AppDelegate.swift */,
@@ -107,24 +107,27 @@
 				9B36554A1C150759005FC762 /* LaunchScreen.storyboard */,
 				9B36554D1C150759005FC762 /* Info.plist */,
 			);
+			name = TipCalculator;
 			path = "codepath-ios-prework";
 			sourceTree = "<group>";
 		};
-		9B3655551C15075A005FC762 /* codepath-ios-preworkTests */ = {
+		9B3655551C15075A005FC762 /* TipCalculatorTests */ = {
 			isa = PBXGroup;
 			children = (
 				9B3655561C15075A005FC762 /* codepath_ios_preworkTests.swift */,
 				9B3655581C15075A005FC762 /* Info.plist */,
 			);
+			name = TipCalculatorTests;
 			path = "codepath-ios-preworkTests";
 			sourceTree = "<group>";
 		};
-		9B3655601C15075A005FC762 /* codepath-ios-preworkUITests */ = {
+		9B3655601C15075A005FC762 /* TipCalculatorUITests */ = {
 			isa = PBXGroup;
 			children = (
 				9B3655611C15075A005FC762 /* codepath_ios_preworkUITests.swift */,
 				9B3655631C15075A005FC762 /* Info.plist */,
 			);
+			name = TipCalculatorUITests;
 			path = "codepath-ios-preworkUITests";
 			sourceTree = "<group>";
 		};
@@ -192,7 +195,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0710;
-				ORGANIZATIONNAME = wustl;
+				ORGANIZATIONNAME = mrsata;
 				TargetAttributes = {
 					9B36553D1C150758005FC762 = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -208,7 +211,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9B3655391C150757005FC762 /* Build configuration list for PBXProject "codepath-ios-prework" */;
+			buildConfigurationList = 9B3655391C150757005FC762 /* Build configuration list for PBXProject "TipCalculator" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -409,7 +412,7 @@
 				INFOPLIST_FILE = "codepath-ios-prework/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wustl.codepath-ios-prework";
+				PRODUCT_BUNDLE_IDENTIFIER = mrsata.TipCalculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -424,7 +427,7 @@
 				INFOPLIST_FILE = "codepath-ios-prework/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wustl.codepath-ios-prework";
+				PRODUCT_BUNDLE_IDENTIFIER = mrsata.TipCalculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -481,7 +484,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9B3655391C150757005FC762 /* Build configuration list for PBXProject "codepath-ios-prework" */ = {
+		9B3655391C150757005FC762 /* Build configuration list for PBXProject "TipCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B3655641C15075A005FC762 /* Debug */,

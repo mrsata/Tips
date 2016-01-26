@@ -17,7 +17,7 @@
                BlueprintIdentifier = "9B36553D1C150758005FC762"
                BuildableName = "codepath-ios-prework.app"
                BlueprintName = "codepath-ios-prework"
-               ReferencedContainer = "container:codepath-ios-prework.xcodeproj">
+               ReferencedContainer = "container:TipCalculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "9B3655511C15075A005FC762"
                BuildableName = "codepath-ios-preworkTests.xctest"
                BlueprintName = "codepath-ios-preworkTests"
-               ReferencedContainer = "container:codepath-ios-prework.xcodeproj">
+               ReferencedContainer = "container:TipCalculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "9B36555C1C15075A005FC762"
                BuildableName = "codepath-ios-preworkUITests.xctest"
                BlueprintName = "codepath-ios-preworkUITests"
-               ReferencedContainer = "container:codepath-ios-prework.xcodeproj">
+               ReferencedContainer = "container:TipCalculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "9B36553D1C150758005FC762"
             BuildableName = "codepath-ios-prework.app"
             BlueprintName = "codepath-ios-prework"
-            ReferencedContainer = "container:codepath-ios-prework.xcodeproj">
+            ReferencedContainer = "container:TipCalculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "9B36553D1C150758005FC762"
             BuildableName = "codepath-ios-prework.app"
             BlueprintName = "codepath-ios-prework"
-            ReferencedContainer = "container:codepath-ios-prework.xcodeproj">
+            ReferencedContainer = "container:TipCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +97,7 @@
             BlueprintIdentifier = "9B36553D1C150758005FC762"
             BuildableName = "codepath-ios-prework.app"
             BlueprintName = "codepath-ios-prework"
-            ReferencedContainer = "container:codepath-ios-prework.xcodeproj">
+            ReferencedContainer = "container:TipCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
